@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Undergraduate Sophomore Studying Computer Science at Purdue University-West Lafayette. Aspiring scientist/engineer. 
-- 🔭 I’m currently learning ...Bioinformatics (taking coursera courses on genome sequencing and AI for scientific research). Honing my data science and ML skills as well. 
+- 🔭 I’m currently learning ...Bioinformatics (taking Coursera courses on genome sequencing and AI for scientific research). Honing my data science and ML skills as well. 
 - 📫 How to reach me: ...Email: suguruchhaya@gmail.com, Phone #: 2012019002
 
