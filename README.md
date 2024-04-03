@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Tenafly High School Senior. Aspiring scientist/innovator. 
+Undergraduate Sophomore Studying Computer Science at Purdue University-West Lafayette. Aspiring scientist/engineer. 
 - 🔭 I’m currently learning ...Bioinformatics (taking coursera courses on genome sequencing and AI for scientific research). Honing my data science and ML skills as well. 
-- 💬 Ask me about ... Competitive Programming. I have attended competitions such as Facebook Hacker Cup and am familiar with USACO silver level algorithms as well as C++. 
 - 📫 How to reach me: ...Email: suguruchhaya@gmail.com, Phone #: 2012019002
-- 😄 Pronouns: ...He/him
 
